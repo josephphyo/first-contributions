@@ -26,6 +26,7 @@ Pashyant Srivastava
 -[Jimmy Cababa] (https://github.com/jimmycababa)
 -[Scott Gorsky] (https://github.com/sjgorsky)
 -[Benjamin Chiang](https://github.com/chychiang)
+-[Yemunn Soe](https://github.com/yemunnsoe-data-enthusiast)
 -[Teja Devisetti](https://github.com/Teja54)
 -[Deepthi](https://github.com/Deepthi1810)
 -[Ayushi Raj] (https://github.com/ayushi-2002)
